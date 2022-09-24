@@ -1,5 +1,5 @@
 {
-	"token": "token",
+    "token": "token",
     "guildId": "server id",
     "server_ip": "mta server ip",
     "playerChannel": "oyuncu sayısı kanal",
