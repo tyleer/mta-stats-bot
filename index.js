@@ -81,7 +81,7 @@ umutbot.on('interactionCreate', async umutmsg => {
                 .setTitle(state.name)
                 .setColor(`BLUE`)
                 .addField(`Harita:`, `${state.map ? state.map : "Bulunamadı"}`, true)
-                .addField(`Oyun tipi:`, `${state.raw.gametype}`, true)
+                .addField(`Oyun tipi:`, `${state.raw.gametype ? state.raw.gametype : "Bulunamadı"}`, true)
                 .addField(`Geliştirici:`, `${state.raw.Developer || "Bulunamadı"}`, true)
                 .addField(`Oyuncular:`, `${state.raw.numplayers || "0"}/${state.maxplayers}`, true)
                 .addField(`Ping:`, `${state.ping}ms`, true)
