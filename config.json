@@ -3,5 +3,5 @@
     "guildId": "server id",
     "server_ip": "mta server ip",
     "playerChannel": "oyuncu sayısı kanal",
-    "server_port": "mta server port"
+    "server_port": "22003"
 }
