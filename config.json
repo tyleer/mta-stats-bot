@@ -2,6 +2,6 @@
     "token": "token",
     "guildId": "server id",
     "server_ip": "mta server ip",
-    "playerChannel": "oyuncu sayısı kanal",
+    "playerChannel": "oyuncu sayısı kanal id",
     "server_port": "22003"
 }
