@@ -46,7 +46,7 @@ umutbot.once('ready', () => {
         }).catch(err => {
             console.log(err);
         });
-    }, 10000);
+    }, 25000);
     (async () => {
         try {
             await rest.put(
