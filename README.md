@@ -4,7 +4,7 @@
 - **config.json** dosyasına giderek belirtilen yerleri doldurunuz.
 - Ardından klasördeki **baslat.bat** dosyasını açarak botu çalıştırabilirsiniz. 
 
-**NOT!** *config.json* dosyasındaki **playerChannel** kısmını değiştirerek odaların güncellenme süresini değiştirebilirsiniz. Default: 5dk(300.000ms).
+**NOT!** *config.json* dosyasındaki **playerChannel** kısmını değiştirerek oyuncu istatistiklerini odalarda canlı olarak alabilirsiniz.
 
 **Port** kısmını kendi sunucunuzun portu, farklıysa değiştirebilirsiniz.
 
