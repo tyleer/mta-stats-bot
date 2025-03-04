@@ -9,3 +9,6 @@
 **Port** kısmını kendi sunucunuzun portu, farklıysa değiştirebilirsiniz.
 
 **Bana ulaşmak için** [umuttd3v](https://discord.com/users/423918142385815552)
+
+## Lisans
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
